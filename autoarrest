@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/13c61b19690eeef04abb4005c3689770.lua"))()
+game.Players.LocalPlayer:Kick(".gg/autoarrest The script is down, join our discord for updates! .gg/autoarrest")
